@@ -180,7 +180,7 @@
   height: 20px;
 }
 
-.ex-12-bottom-white {
+.ex-12-button:hover .ex-12-bottom-white {
   animation-name: bottom-key;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -212,7 +212,7 @@
   }
 }
 
-.ex-12-top-white {
+.ex-12-button:hover .ex-12-top-white {
   animation-name: top-bottom-key;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -254,7 +254,7 @@
   height: 20px;
 }
 
-.ex-13-top-white {
+.ex-13-button:hover .ex-13-top-white {
   animation-name: top-13-key;
   animation-duration: 2s;
   animation-iteration-count: infinite;
@@ -285,7 +285,7 @@
   }
 }
 
-.ex-13-bottom-white {
+.ex-13-button:hover .ex-13-bottom-white {
   animation-name: bottom-13-key;
   animation-duration: 2s;
   animation-iteration-count: infinite;
